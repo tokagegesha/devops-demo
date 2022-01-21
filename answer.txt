@@ -2,4 +2,4 @@
 If internet access is good than try check if inbound rules allowed by security group and if ssh port number is allowed
 Also I will check if ssh service is running properly and try to connect using IP address instead of domain
 
- 2) Ps aux —sort -pid >> result.txt
+ 2) Ps aux —-sort -pid >> result.txt
